@@ -25,5 +25,3 @@ while(a != 4):
     if(a == 3):
         print("My todo list:\n")
         print(myList)
-
-
